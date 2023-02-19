@@ -1,2 +1,2 @@
 # Cryto Currency Analysis
-The Analyst was tasked with creating a list of tradeable crypto currencies to see how they can be grouped to create a classification system for a new investment portfolio.  The Analyst used unsupervised machine learning methods such as KMeans and PCA and created visualizations to accompany the analysis.
+The Analyst was tasked with creating a list of tradeable crypto currencies to see how they can be grouped to create a classification system for a new investment portfolio.  Unsupervised machine learning methods such as KMeans and PCA were used for analysis, and visualizations were created from the results.
